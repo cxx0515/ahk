@@ -1,4 +1,4 @@
-﻿translateData = {
+translateData = {
   // sidebar
   "C̲ontent":"目录(C)",
   "Shortcut: ALT+C":"快捷键: ALT+C",
@@ -36,7 +36,7 @@
   "v1":"v2",
   "Change the version":"更换版本",
   "Edit this document on GitHub":"在 GitHub 编辑页面",
-  "https://github.com/Lexikos/AutoHotkey_L-Docs/edit/v1/docs/":"https://github.com/wyagd001/wyagd001.github.io/edit/master/v2/docs/",
+   "https://cxx0515.gitee.io/ahk/v2/":"https://cxx0515.gitee.io/ahk/v2/",
   "Go back":"后退",
   "Go forward":"前进",
   "Change the font size":"更改字体大小",
